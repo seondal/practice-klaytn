@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@klaytn/ethers-ext": "^0.9.8-beta"
+  }
+}

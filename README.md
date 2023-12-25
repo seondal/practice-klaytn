@@ -1,9 +1,11 @@
 # web3klaytn 을 이용한 Fee Delegation 구현
 
+![세션자료-07](https://github.com/seondal/practice-klaytn/assets/75469131/14da9e1e-dcf2-47a3-aca0-57bb2bbd1055)
+
+## web3klaytn 이란?
 ![세션자료-04](https://github.com/seondal/practice-klaytn/assets/75469131/ab131b9c-6f2c-4a71-af51-20352c4437ec)
 ![세션자료-05](https://github.com/seondal/practice-klaytn/assets/75469131/57f31c2a-8401-491d-b052-62643b1191f4)
 ![세션자료-06](https://github.com/seondal/practice-klaytn/assets/75469131/2218b485-f4f0-4ec7-8c5e-0ccafa37f163)
-![세션자료-07](https://github.com/seondal/practice-klaytn/assets/75469131/14da9e1e-dcf2-47a3-aca0-57bb2bbd1055)
 
 ## 개발 환경 세팅
 - Kaikas : 클레이튼 전용 지갑
@@ -15,6 +17,7 @@
 npm install -save @klaytn/ethers-ext
 ```
 
+## 개발 실습
 ![세션자료-14](https://github.com/seondal/practice-klaytn/assets/75469131/5c22e35d-b18c-41d3-90a2-5ac1b64bf227)
 ![세션자료-15](https://github.com/seondal/practice-klaytn/assets/75469131/2dc8ac27-d977-4369-9120-785246b7c0c6)
 ![세션자료-16](https://github.com/seondal/practice-klaytn/assets/75469131/b050938b-8555-408e-ac20-4f9c62388165)
